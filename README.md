@@ -16,3 +16,16 @@ University of Washington, Information School, 2024
 University of Washington Bothell, 2022
 - English Coursework Highlights: Gothic Literature, Futures of Genre Fiction, Literature & Human Rights, Postcolonial Literature, Technical Writing.
 - Film & Media Coursework Highlights: Screenwriting, Video Essay Production, Experimental Filmmaking, Game Studies, Queer Cinema.
+
+## Work Experience
+### Temporary Research & Instruction Librarian
+Seattle University, 2024-2025
+
+### Graduate Assistant, Libraries Instructional Design
+University of Washington Libraries, 2022-2024
+
+### Graduate Capstone Researcher, *The Misinformation Play Pack*
+University of Washington Game Research Group, 2023-2024
+
+### Peer Academic Advisor, University of Washington Bothell Office of Undergraduate Advising
+2021-2022
