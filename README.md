@@ -32,6 +32,7 @@ University of Washington Bothell Undergraduate Academic Advising, 2021-2022
 
 ### Communications Intern
 Center on Reinventing Public Education, 2020-2021
+
 *Research center went through Chapter 11 Bankruptcy in 2021*
 
 ### Teaching Assistant
