@@ -14,5 +14,5 @@ University of Washington, Information School, 2024
 
 ### Bachelor of Arts, English Language & Literature + Film & Media Studies
 University of Washington Bothell, 2022
-- English Coursework Highlights: 
-- Film & Media Coursework Highlights: Screenwriting, Video Essay Production, Experimental Filmmaking, Queer Cinema.
+- English Coursework Highlights: Gothic Literature, Futures of Genre Fiction, Literature & Human Rights, Postcolonial Literature, Technical Writing.
+- Film & Media Coursework Highlights: Screenwriting, Video Essay Production, Experimental Filmmaking, Game Studies, Queer Cinema.
