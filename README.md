@@ -27,5 +27,12 @@ University of Washington Libraries, 2022-2024
 ### Graduate Capstone Researcher, *The Misinformation Play Pack*
 University of Washington Game Research Group, 2023-2024
 
-### Peer Academic Advisor, University of Washington Bothell Office of Undergraduate Advising
-2021-2022
+### Peer Advisor 
+University of Washington Bothell Undergraduate Academic Advising, 2021-2022
+
+### Communications Intern
+Center on Reinventing Public Education, 2020-2021
+*Research center went through Chapter 11 Bankruptcy in 2021*
+
+### Teaching Assistant
+University of Washington Bothell, 2020
