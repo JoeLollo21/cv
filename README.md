@@ -54,3 +54,11 @@ University of Washington Bothell, 2020
 - Guided 15-20 students a quarter through class material in lectures and offices, over Winter and Spring 2020.
 - Adapted in-person course to an online format in accordance with COVID-19 pandemic restrictions, transitioning 8 Canvas modules and 3 assignments.
 - Created and managed Discord server for students to build community and share resources outside of class.
+
+## Skills
+### Technical Skills
+
+### General Skills
+
+### Languages
+Bilingual in English & Italian (can read, write, translate) | Intermediate Spanish speaker
