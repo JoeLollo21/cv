@@ -17,26 +17,38 @@ University of Washington Bothell, School of Interdisciplinary Arts & Sciences 20
 - English Coursework Highlights: Gothic Literature, Futures of Genre Fiction, Literature & Human Rights, Postcolonial Literature, Technical Writing.
 - Film & Media Coursework Highlights: Screenwriting, Video Essay Production, Experimental Filmmaking, Game Studies, Queer Cinema.
 
-## Work Experience
+## Experience
 ### Temporary Research & Instruction Librarian
 [Seattle University Lemieux Library](https://library.seattleu.edu/), 2024-2025
-- Conduct classroom and online instruction as a part of the library's curriculum-integrated information literacy curriculum.
-- Provide research assistance to students, faculty, staff, and community members at the Research Help desk and in online chat shifts.
-- 
+- Conducted classroom and online instruction as a part of the library's curriculum-integrated information literacy curriculum.
+- Provided research assistance to students, faculty, staff, and community members at the Research Help desk. Oversaw 50% of Autumn 2024 reference transactions.
+- Produced and edited 11 [video tutorials](https://www.youtube.com/@LemieuxLibrary) introducing library services and research tools, using Camtasia (for screencasts) and Premiere Pro (for editing).
+- Created digital resources to accompany library instruction and outreach, including LibGuides, online lesson plans, and promotional graphics.
+- Conducted weekly online reference consultations with Association of Jesuit Colleges & Universities (AJCU) partners.
+- Contributed to Seattle University and the profession through productive service in professional organizations and campus staff AI Task Force.
 
-### Graduate Assistant, Libraries Instructional Design
-University of Washington Libraries, 2022-2024
+### Graduate Assistant, [Libraries Instructional Design](https://sites.uw.edu/libid/)
+University of Washington Libraries: Odegaard Undergraduate Library, 2022-2024
+- Collaborated on the design and execution of 30 workshops and webinars, increasing undegraduate and graduate students' knowledge of digital technologies and library resources.
+- Developed original web-based learning modules for [Digital Storytelling Fellows](https://sites.uw.edu/libstory/) workshop series, adapting classroom and hybrid instruction to an asynchronous format.
+- Co-created [Web Design](https://drive.google.com/file/d/1QdfvV7BuI30OosUz77fKiivfmLtp0bHz/view) and Game Design workshops, diversifying Storytelling Fellows program offerings over the 2023-24 academic year.
+- Produced instructional videos to accompany online courses, surrounding search strategies, source evaluation, and citation management with Zotero. 
+- Conducted usability study of the Libraries' purchase of the H5P software suite, resutling in the creation of a [LibGuide](https://guides.lib.uw.edu/research/canvas/h5ptest) featuring user assistance and original examples of instructional content design with H5P.
+- Served on the organizing committee for the UW Libraries' 2024 Global Accessibility Awareness Day, collaborating to develop event programming and a [resource list](https://docs.google.com/presentation/d/11lp07UMcMCIzEzxqG6_J3OvtV1pXI7_TlfrJ52127EA/edit?slide=id.p1#slide=id.p1) for students to learn more about digital accessibility.
 
-### Graduate Capstone Researcher, *The Misinformation Play Pack*
+### Capstone Instructional Designer, [*The Misinformation Play Pack*](https://lokisloop.org/misinfoplaypack/)
 University of Washington Game Research Group, 2023-2024
+- Designed online curriculum for libraries and K-12 educators, using learning games to increase digital literacy skills and awareness of misinformation.
+- Developed comprehensive lesson plans and learning assets for the curriculum's 3 modules, creating game activities, graphics, videos, and PowerPoint slides.
+- Collaborated with Seattle Public Library Columbia Branch to conduct research with 10 teen users, collecting feedback on curriculum strengths and areas of improvement.
+- Created WordPress site featuring instructional documentation, downloadable learning artifacts, framing statements, and feedback form.
+- Collected design and research findings into digestible report (finish bullet here)
 
 ### Peer Advisor 
 University of Washington Bothell Undergraduate Academic Advising, 2021-2022
 
-### Communications Intern
-Center on Reinventing Public Education, 2020-2021
-
-*Research center went through Chapter 11 Bankruptcy in 2021*
-
 ### Teaching Assistant
 University of Washington Bothell, 2020
+- Guided 15-20 students a quarter through class material in lectures and offices, over Winter and Spring 2020.
+- Adapted in-person course to an online format in accordance with COVID-19 pandemic restrictions, transitioning 8 Canvas modules and 3 assignments.
+- Created and managed Discord server for students to build community and share resources outside of class.
