@@ -10,10 +10,10 @@ University of Washington Professional & Continuing Education, 2025
 ### [Master of Library & Information Science](https://ischool.uw.edu/programs/mlis)
 University of Washington, Information School, 2024
 - Design Coursework: [User-Centered Design](https://myplan.uw.edu/course/#/courses/LIS547) (LIS 547), [Research Methods](https://myplan.washington.edu/course/#/courses/LIS570) (LIS 570), [Community Assessment](https://myplan.uw.edu/course/#/courses/INSC512) (INSC 512, PhD course), [Gaming & Libraries](https://myplan.uw.edu/course/#/courses/LIS536) (LIS 536), [Information Architecture](https://myplan.uw.edu/course/#/courses/LIS537) (LIS 537), [Instructional Design](https://myplan.uw.edu/course/#/courses/LIS560) (LIS 560)
-- Technical Coursework: [Cataloging](https://myplan.uw.edu/course/#/courses/LIS531) (LIS 531), [Data Librarianship](https://myplan.uw.edu/course/#/courses/LIS545) (LIS 545), [Data Visualization](https://myplan.uw.edu/course/#/courses/LIS572) (LIS 572), **Search & Discovery Systems** (LIS 598, special topics course)
+- Technical Coursework: [Beginning](https://myplan.uw.edu/course/#/courses/LIS545) and [Advanced](https://myplan.uw.edu/course/#/courses/LIS546) Data Curation & Management, [Data Visualization](https://myplan.uw.edu/course/#/courses/LIS572) (LIS 572), [Search & Discovery Systems](https://ischool.uw.edu/programs/mlis/curriculum/special-topics) (LIS 598, special topics course)
 
-### Bachelor of Arts, English Language & Literature + Film & Media Studies
-University of Washington Bothell, 2022
+### Bachelor of Arts, [English Language & Literature](https://www.uwb.edu/ias/undergraduate/majors/culture-literature-arts) + [Film & Media Studies](https://www.uwb.edu/ias/undergraduate/majors/media-communication)
+University of Washington Bothell, School of Interdisciplinary Arts & Sciences 2022
 - English Coursework Highlights: Gothic Literature, Futures of Genre Fiction, Literature & Human Rights, Postcolonial Literature, Technical Writing.
 - Film & Media Coursework Highlights: Screenwriting, Video Essay Production, Experimental Filmmaking, Game Studies, Queer Cinema.
 
