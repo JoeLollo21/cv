@@ -15,7 +15,7 @@ University of Washington, Information School, 2024
 - Technical Coursework: [Beginning](https://myplan.uw.edu/course/#/courses/LIS545) and [Advanced](https://myplan.uw.edu/course/#/courses/LIS546) Data Curation (LIS 545/546), [Data Visualization](https://myplan.uw.edu/course/#/courses/LIS572) (LIS 572), [Search & Discovery Systems](https://ischool.uw.edu/programs/mlis/curriculum/special-topics) (LIS 598, special topics course)
 
 ### Bachelor of Arts, [English Language & Literature](https://www.uwb.edu/ias/undergraduate/majors/culture-literature-arts) + [Film & Media Studies](https://www.uwb.edu/ias/undergraduate/majors/media-communication)
-University of Washington Bothell, School of Interdisciplinary Arts & Sciences 2022
+University of Washington Bothell, School of Interdisciplinary Arts & Sciences, 2022
 - English Coursework Highlights: Gothic Literature, Literature & Human Rights, Postcolonial Literature, Supernatural Fiction, Technical Writing.
 - Film & Media Coursework Highlights: Screenwriting, Video Essay Production, Experimental Filmmaking, Game Studies, Queer Cinema.
 
