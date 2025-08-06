@@ -1,5 +1,5 @@
 # Joe Lollo, MLIS
-joelollo880@gmail.com
+joelollo880 (at) gmail (dot) com
 
 https://joelollo21.github.io
 
@@ -46,19 +46,28 @@ University of Washington Game Research Group, 2023-2024
 - Created WordPress site featuring instructional documentation, downloadable learning artifacts, framing statements, and feedback form.
 - Collected design and research findings into digestible report (finish bullet here)
 
+### MLIS Peer Advisor (Volunteer)
+University of Washington Information School, 2023-2024
+
 ### Peer Advisor 
 University of Washington Bothell Undergraduate Academic Advising, 2021-2022
 
 ### Teaching Assistant
-University of Washington Bothell, 2020
+University of Washington Bothell, School of Interdisciplinary Arts & Sciences, 2020
 - Guided 15-20 students a quarter through class material in lectures and offices, over Winter and Spring 2020.
 - Adapted in-person course to an online format in accordance with COVID-19 pandemic restrictions, transitioning 8 Canvas modules and 3 assignments.
 - Created and managed Discord server for students to build community and share resources outside of class.
 
 ## Skills
 ### Technical Skills
+- **Adobe Creative Suite**: Photoshop, Illustrator, Premiere, Audition, Flash, InDesign, Lightroom, Express, XD.
+- **Content Management**: Canvas, Springshare LibGuides, Articulate Storyline and Rise, WordPress, Pressbooks, Omeka, Manifold, Quire, GitHub, Google Classroom.
+- **Other Graphics & Media**: Canva, Figma, Prezi, Final Cut Pro, DaVinci Resolve, CapCut, Audacity, iMovie - can learn new video/audio tools easily too!
+- **Productivity**: Springshare LibApps, Microsoft Office/Google Suite, Miro.
+- **Programming Languages**: HTML, CSS, JavaScript, R, TypeScript.
 
 ### General Skills
+
 
 ### Languages
 Bilingual in English & Italian (can read, write, translate) | Intermediate Spanish speaker
