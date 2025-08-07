@@ -63,11 +63,11 @@ University of Washington Bothell, School of Interdisciplinary Arts & Sciences, 2
 - **Adobe Creative Suite**: Photoshop, Illustrator, Premiere, Audition, Flash, InDesign, Lightroom, Express, XD.
 - **Content Management**: Canvas, Springshare LibGuides, Articulate Storyline and Rise, WordPress, Pressbooks, Omeka, Manifold, Quire, GitHub, Google Classroom.
 - **Other Graphics & Media**: Canva, Figma, Prezi, Final Cut Pro, DaVinci Resolve, CapCut, Audacity, iMovie - can learn new video/audio tools easily too!
-- **Productivity**: Springshare LibApps, Microsoft Office/Google Suite, Miro.
+- **Productivity**: Springshare LibApps, Microsoft Office/Google Suite, Miro, Slack.
 - **Programming Languages**: HTML, CSS, JavaScript, R, TypeScript.
 
 ### General Skills
-
+Technical training & facilitation, interpersonal communication, collaboration, teambuilding, project management, design thinking.
 
 ### Languages
-Bilingual in English & Italian (can read, write, translate) | Intermediate Spanish speaker
+Bilingual in English & Italian (can read, write, translate), intermediate Spanish speaker.
