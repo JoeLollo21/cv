@@ -44,7 +44,7 @@ University of Washington Game Research Group, 2023-2024
 - Developed comprehensive lesson plans and learning assets for the curriculum's 3 modules, creating game activities, graphics, videos, and PowerPoint slides.
 - Collaborated with Seattle Public Library Columbia Branch to conduct research with 10 teen users, collecting feedback on curriculum strengths and areas of improvement.
 - Created WordPress site featuring instructional documentation, downloadable learning artifacts, framing statements, and feedback form.
-- Collected design and research findings into digestible report (finish bullet here)
+- Collected design and research findings into digestible reports, presented at Capstone symposium, to UW iSchool donors, and [at the 2025 Washington Library Association conference](https://www.wla.org/2025-programs).
 
 ### MLIS Peer Advisor (Volunteer)
 University of Washington Information School, 2023-2024
@@ -116,7 +116,7 @@ Bilingual in English & Italian (can read, write, translate), intermediate Spanis
 ### Conference Presentations:
 "The Misinformation Play Pack in Context: Game-Based Learning & Backwards Design in Library Outreach." Washington Library Association 2025 Annual Conference, April 2025. [Slides]().
 
-"The Misinformation Play Pack." UW iSchool Capstone Symposium + iSchool . [Slides](https://drive.google.com/file/d/1djN4sX7LNQyWx0eYQ0GMvphKpD71WVCf/view?usp=sharing)
+"The Misinformation Play Pack." UW iSchool Capstone Symposium + iSchool MLIS Board Presentation, May-June 2024. [Slides](https://drive.google.com/file/d/1djN4sX7LNQyWx0eYQ0GMvphKpD71WVCf/view?usp=sharing)
 
 "*Baloney Detectives*: Designing a Misinformation Escape Room." MisInfo Day 2023, University of Washington, February 2023, with Andrew Charlton-Jones and Sabrina Hsu. [Slides]() and [project]().
 
