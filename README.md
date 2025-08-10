@@ -54,8 +54,9 @@ University of Washington Information School, 2023-2024
 ### Admissions Student Representative (Volunteer/Stipend)
 University of Washington Information School, 2022-2024
 - Advised and evaluated nearly 200 graduate program applicants over an academic year.
-- Scheduled informational interviews and meetings to determine program fit and demystify the application process.
+- Represented the current student experience at events for the iSchool Admissions team, including the UW Career Center's 2023 Graduate School Fair and tabling at the 2024 Washington Library Association conference. 
 - Responded to prospective students on the MLIS Admissions email, sharing a student perspective on the application and program experience.
+- Scheduled informational interviews and meetings to determine program fit and demystify the application process.
 
 ### Peer Advisor 
 University of Washington Bothell Undergraduate Academic Advising, 2021-2022
