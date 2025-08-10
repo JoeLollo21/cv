@@ -105,10 +105,10 @@ University of Washington Bothell, School of Interdisciplinary Arts & Sciences, 2
 - **Other Graphics & Media**: Canva, Figma, Prezi, Final Cut Pro, DaVinci Resolve, CapCut, Audacity, iMovie - can learn new video/audio tools easily too!
 - **Programming Languages**: HTML, CSS, JavaScript, R, TypeScript.
 - **Game Design**: Twine, Roll20, RPG Maker, Unreal Engine.
-- **Productivity**: Springshare LibApps, Microsoft Office/Google Suite, Miro, Slack.
+- **Productivity**: Springshare LibApps, Microsoft Office/Google Suite, Google Analytics, Miro, Slack, Zoom, Teams.
 
 ### General Skills
-Technical training & facilitation, interpersonal communication, collaboration, teambuilding, project management, design thinking.
+Technical training & facilitation, design thinking, digital accessibility, interpersonal communication, collaboration, teambuilding, project management, public speaking, event planning and promotion.
 
 ### Languages
 Bilingual in English & Italian (can read, write, translate), intermediate Spanish speaker.
