@@ -16,7 +16,7 @@ University of Washington, Information School, 2024
 
 ### Bachelor of Arts, [English Language & Literature](https://www.uwb.edu/ias/undergraduate/majors/culture-literature-arts) + [Film & Media Studies](https://www.uwb.edu/ias/undergraduate/majors/media-communication)
 University of Washington Bothell, School of Interdisciplinary Arts & Sciences, 2022
-- English Coursework Highlights: Gothic Literature, Literature & Human Rights, Postcolonial Literature, Supernatural Fiction, Technical Writing.
+- English Coursework Highlights: Environmental Humanities, Gothic Literature, Literature & Human Rights, Postcolonial Literature, Supernatural Fiction.
 - Film & Media Coursework Highlights: Video Essay Production, Experimental Filmmaking, Internet Art & New Media, Game Studies, Queer Cinema.
 
 ## Experience
