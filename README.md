@@ -65,6 +65,12 @@ University of Washington Bothell Undergraduate Academic Advising, 2021-2022
 - Fostered reciprocal relationships with full-time Academic Advisors to provide mutual advising assistance to students, understand policies, and share campus events.
 - Maintained accurate and complete student records as required by FERPA law, university policies, and record-keeping standards.
 
+### Communications Intern
+University of Washington Bothell Digital Future Lab, 2020-2021
+- Wrote monthly blog posts interviewing showcasing DFL projects and interviewing students and faculty about their experiences.
+- Produced promotional videos showcasing student work and game design processes.
+· Managed content production pipeline on the DFL's WordPress blog and YouTube channel.
+
 ### Teaching Assistant
 University of Washington Bothell, School of Interdisciplinary Arts & Sciences, 2020
 - Guided 15-20 students a quarter through class material in lectures and offices, over Winter and Spring 2020.
